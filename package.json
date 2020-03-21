@@ -1,0 +1,14 @@
+{
+  "name": "lms-mail-scrapper",
+  "version": "1.0.0",
+  "description": "Get email addresses for all your CL groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Przemyslaw Urbaniak (thekyeZ)",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
