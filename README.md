@@ -15,7 +15,6 @@ Maile wszystkich towich kursantów pownny zostać wyświetlone w konsoli oraz za
 	--------------------------------------
 
 	przemyslaw.urbaniak@coderslab.pl
-	przemyslaw.urbaniak@coderslab.pl
 	B************@GMAIL.COM
 	r********a@gmail.com
 	***********i1996@gmail.com
